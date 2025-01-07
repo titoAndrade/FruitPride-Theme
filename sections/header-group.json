@@ -25,7 +25,6 @@
       "block_order": [
         "announcement-bar-0"
       ],
-      "disabled": true,
       "settings": {
         "color_scheme": "scheme-4",
         "show_line_separator": true,
@@ -57,38 +56,7 @@
     },
     "marquee_KVhhDx": {
       "type": "marquee",
-      "blocks": {
-        "text_y9zCRe": {
-          "type": "text",
-          "settings": {
-            "new_text": "Join the Riot"
-          }
-        },
-        "text_PMm3HA": {
-          "type": "text",
-          "settings": {
-            "new_text": "Welcome to UrbanRiot"
-          }
-        },
-        "text_xwMkar": {
-          "type": "text",
-          "settings": {
-            "new_text": "✈ Free Shipping in the U.S.✈"
-          }
-        }
-      },
-      "block_order": [
-        "text_y9zCRe",
-        "text_PMm3HA",
-        "text_xwMkar"
-      ],
-      "settings": {
-        "colorBackground": "#000000",
-        "colorText": "#ffffff",
-        "link": "",
-        "marquee_height": 24,
-        "font_size": 12
-      }
+      "settings": {}
     }
   },
   "order": [

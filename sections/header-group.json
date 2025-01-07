@@ -20,10 +20,26 @@
             "text": "Welcome to our store",
             "link": ""
           }
+        },
+        "announcement_UpxjYA": {
+          "type": "announcement",
+          "settings": {
+            "text": "Fruit Pride Parade",
+            "link": ""
+          }
+        },
+        "announcement_mJ88rD": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_UpxjYA",
+        "announcement_mJ88rD"
       ],
       "custom_css": [
         "div {background: linear-gradient( 90deg, rgba(228, 3, 3, 1) 0%, rgba(255, 140, 0, 1) 20%, rgba(255, 222, 0, 1) 40%, rgba(0, 128, 38, 1) 60%, rgba(0, 77, 255, 1) 80%, rgba(117, 7, 135, 1) 100% ); height: 25px; width: 100%;}",
@@ -31,9 +47,9 @@
       ],
       "settings": {
         "color_scheme": "scheme-4",
-        "show_line_separator": true,
+        "show_line_separator": false,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 4,
         "enable_country_selector": false,
         "enable_language_selector": false

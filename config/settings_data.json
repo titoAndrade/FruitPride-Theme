@@ -140,10 +140,6 @@
         "settings": {
           "color_scheme": "scheme-1"
         }
-      },
-      "marquee": {
-        "type": "marquee",
-        "settings": {}
       }
     },
     "content_for_index": [],

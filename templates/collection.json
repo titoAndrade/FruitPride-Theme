@@ -9,6 +9,26 @@
  */
 {
   "sections": {
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "slideshow_YBFyiY": {
       "type": "slideshow",
       "blocks": {
@@ -61,31 +81,12 @@
         "change_slides_speed": 3,
         "image_behavior": "none",
         "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
-    "product-grid": {
-      "type": "main-collection-product-grid",
-      "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 4,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "quick_add": "none",
-        "enable_filtering": true,
-        "filter_type": "horizontal",
-        "enable_sorting": true,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "accessibility_info": ""
       }
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -99,7 +100,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>Fruit Pride Parade Regular Fit T-Shirt Collection</strong>",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "text_RVx9xz": {
@@ -108,20 +109,11 @@
             "text": "<p>Discover the perfect blend of comfort and self-expression with the <em>Fruit Pride Parade Regular Fit T-Shirt Collection</em>. These versatile tees are tailored to flatter all body types while staying true to the bold, modern, and inclusive spirit of our brand.</p><p>Featuring cheeky and daring designs inspired by LGBTQIA+ culture, this collection celebrates diversity with a sleek and sustainable edge. Whether you’re heading out for a casual day or making a statement at an event, these regular-fit t-shirts are the go-to choice for showcasing your pride in style.</p><ul><li><strong>Fit</strong>: Classic regular fit for a timeless look.</li><li><strong>Designs</strong>: LGBTQIA+ themes with pride colors and modern accents.</li><li><strong>Sustainability</strong>: On-demand production to minimize waste.</li></ul><p>Elevate your everyday wardrobe with tees that speak volumes about who you are—proud, bold, and unapologetically you.</p><p> </p><p>Regular fit pride t-shirts, LGBTQIA+ regular fit apparel, sustainable pride clothing, modern LGBTQ fashion, eco-friendly pride t-shirts, bold pride designs, classic fit LGBTQ shirts, pride parade collection.</p>",
             "text_style": "body"
           }
-        },
-        "button_aGKbmp": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_y4TayT",
-        "text_RVx9xz",
-        "button_aGKbmp"
+        "text_RVx9xz"
       ],
       "settings": {
         "image": "shopify://shop_images/3877199736489827647_2048.jpg",
@@ -141,8 +133,8 @@
     }
   },
   "order": [
-    "slideshow_YBFyiY",
     "product-grid",
+    "slideshow_YBFyiY",
     "banner",
     "image_with_text_Ri79c6"
   ]

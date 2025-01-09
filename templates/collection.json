@@ -32,7 +32,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
@@ -69,8 +69,8 @@
         "button_aGKbmp"
       ],
       "settings": {
-        "image": "{{ collection.image }}",
-        "height": "small",
+        "image": "shopify://shop_images/3877199736489827647_2048.jpg",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",

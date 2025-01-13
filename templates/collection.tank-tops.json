@@ -146,14 +146,14 @@
         "heading_y4TayT": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>Fruit Pride Parade Regular Fit T-Shirt Collection</strong>",
+            "heading": "<strong>Fruit Pride Parade Tank Top Collection</strong>",
             "heading_size": "h1"
           }
         },
         "text_RVx9xz": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover the perfect blend of comfort and self-expression with the <em>Fruit Pride Parade Regular Fit T-Shirt Collection</em>. These versatile tees are tailored to flatter all body types while staying true to the bold, modern, and inclusive spirit of our brand.</p><p>Featuring cheeky and daring designs inspired by LGBTQIA+ culture, this collection celebrates diversity with a sleek and sustainable edge. Whether you’re heading out for a casual day or making a statement at an event, these regular-fit t-shirts are the go-to choice for showcasing your pride in style.</p><ul><li><strong>Fit</strong>: Classic regular fit for a timeless look.</li><li><strong>Designs</strong>: LGBTQIA+ themes with pride colors and modern accents.</li><li><strong>Sustainability</strong>: On-demand production to minimize waste.</li></ul><p>Elevate your everyday wardrobe with tees that speak volumes about who you are—proud, bold, and unapologetically you.</p><p> </p><p>Regular fit pride t-shirts, LGBTQIA+ regular fit apparel, sustainable pride clothing, modern LGBTQ fashion, eco-friendly pride t-shirts, bold pride designs, classic fit LGBTQ shirts, pride parade collection.</p>",
+            "text": "<p>Unleash your boldest self with the <em>Fruit Pride Parade Tank Top Collection</em>! Perfect for warmer days or layering with style, these tank tops are designed to celebrate individuality, inclusivity, and sustainability.</p><p>Featuring daring designs inspired by LGBTQIA+ culture, these tank tops embody a cheeky, modern aesthetic with pride colors woven into every detail. Crafted with eco-friendly, high-quality materials and produced on-demand, they’re the perfect combination of style and environmental responsibility.</p><p><strong>Fit</strong>: Sleek, breathable fit for all-day comfort.</p><p><strong>Designs</strong>: Bold LGBTQIA+ themes with humorous and pride-inspired graphics.</p><p><strong>Sustainability</strong>: Made on demand to support eco-conscious fashion.</p><p>Show off your pride with tank tops that highlight your personality and values. Whether you’re at the gym, the beach, or a Pride parade, these tanks make every moment a statement of love, courage, and sustainability.</p><p><br/>LGBTQIA+ tank tops, sustainable pride tank tops, eco-friendly LGBTQ fashion, bold pride apparel, cheeky LGBTQ tank designs, modern pride clothing, breathable pride tank tops, Fruit Pride Parade collection.</p>",
             "text_style": "body"
           }
         }
@@ -163,9 +163,9 @@
         "text_RVx9xz"
       ],
       "settings": {
-        "image": "shopify://shop_images/3877199736489827647_2048.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
+        "image": "shopify://shop_images/1039047763579790347_2048.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",

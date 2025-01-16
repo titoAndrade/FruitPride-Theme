@@ -12,13 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {}
@@ -100,7 +93,6 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "caption",
         "price",
@@ -152,6 +144,7 @@
         "image-with-text-0",
         "image-with-text-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "{{ product.featured_image }}",
         "height": "small",
@@ -194,6 +187,7 @@
         "column-0",
         "column-1"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
